@@ -1,4 +1,4 @@
-Hello ____! Thank you for considering joining the Lawline team. Below is a coding exercise that will allow you
+Hello Alex Rich! Thank you for considering joining the Lawline team. Below is a coding exercise that will allow you
 to highlight your skills.
 
 You have up to 48 hours to submit, however, we respect your time and expect this to only take a few hours. Please make
@@ -106,3 +106,9 @@ When you are finished you will push up the application to a personal git repo. T
 James is available for any questions you may have via email at james.terrono@furthered.com.
 
 ![Good Luck](http://www.reactiongifs.us/wp-content/uploads/2014/01/good_luck_morgan_freeman.gif)
+
+
+## Requirements
+- Clone repo and set up .env file for your local environment.
+- Run Composer install
+- 
